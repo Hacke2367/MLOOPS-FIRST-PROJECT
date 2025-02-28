@@ -5,7 +5,7 @@ setup(
 
     name="src",
     version="0.0.1",
-    author="Abhishek",
+    author="Abhishek maurya",
     author_email="abhimaurya9850@gmail.com",
     packages=find_packages()
 )
